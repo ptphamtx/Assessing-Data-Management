@@ -46,7 +46,7 @@ Handling large or complex transformations in ETL is another weak spot. While I c
 
 ---
 
-## Summary Statement of Capabilities
+## Summary
 I’ve built a solid foundation in data management. I can design basic relational schemas and ER models, write SQL (including joins and aggregations) to answer practical questions, set up simple ETL steps to extract and clean structured data, and apply essential ideas from data governance and quality assurance.  
 
 I’m still developing my understanding of advanced schema design, indexing/optimization, and larger-scale ETL. I’ve seen how data management supports other areas — providing clean, well-structured data for analytics, forming the database layer for application development, and aligning with security through access control and accountability.  
